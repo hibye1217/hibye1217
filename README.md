@@ -12,6 +12,6 @@
 - [BOJ - hibye1217, Diamond IV (2319)](https://www.acmicpc.net/user/hibye1217)
   - [Solved.ac (hibye1217)](https://solved.ac/profile/hibye1217)
 - [CodeForces - hibye1217, Grandmaster (2410)](https://codeforces.com/profile/hibye1217)
-- [AtCoder - hibye1217, 1 Dan (2410)](https://atcoder.jp/users/hibye1217)
+- [AtCoder - hibye1217, 1 Dan (2004)](https://atcoder.jp/users/hibye1217)
 - [CodeChef - hibye1217, ★★ (1478)](https://www.codechef.com/users/hibye1217)
 - [CodeUp - hibye1217, Lv. 111 (1116)](https://codeup.kr/userinfo.php?user=hibye1217)
